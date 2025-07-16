@@ -1,2 +1,2 @@
-# Prediction-of-CO-Emissions
+# Prediction-of-CO2-Emissions
 EDUNET_AICTE_MICROSOFT INTERNSHIP
